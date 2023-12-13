@@ -1,5 +1,5 @@
 # Machine-Learning-Portugal2019-ElectionAnalysis
- This repository hosts an extensive machine learning project that delves into the analysis of the 2019 legislative election results in Portugal. 
+ 
 This repository hosts an extensive machine learning project that delves into the analysis of the 2019 legislative election results in Portugal. This project was a key component of the final assessment for a Machine Learning course, and it showcases the application of a variety of machine learning regression techniques to predict electoral outcomes based on real-time data.
 
 Dataset Overview
